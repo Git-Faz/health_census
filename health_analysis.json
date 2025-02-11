@@ -2,7 +2,7 @@
     "conditions": [
       {
         "name": "Thyroid",
-        "imagesrc":"thyroid.jpg",
+        "imagesrc":"https://github.com/Git-Faz/health_census/blob/master/thy.jpg",
         "symptoms": [
           "Fatigue",
           "Weight gain or loss",
